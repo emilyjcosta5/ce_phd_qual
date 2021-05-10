@@ -1,5 +1,5 @@
 CC=g++
-all: question_3.cpp
-	${CC} -o question_3 question_3.cpp
+all: costa_emily_q3__CE2021PhDQE.cpp
+	${CC} -o costa_emily_q3__CE2021PhDQE costa_emily_q3__CE2021PhDQE.cpp
 clean:
-	rm -f question_3
+	rm -f costa_emily_q3__CE2021PhDQE
